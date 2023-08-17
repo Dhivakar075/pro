@@ -5,5 +5,8 @@ public class A {
 	System.out.println("Hello java");
 	
 	System.out.println("Second edit");
+	
+	System.out.println("Third edit");
+	
 }
 }
